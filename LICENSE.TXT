@@ -1,0 +1,16 @@
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE DISTRIBUTED "AS IS" AND WITHOUT 
+WARRANTIES AS TO PERFORMANCE OF MERCHANTABILITY OR ANY OTHER WARRANTIES WHETHER
+EXPRESSED OR IMPLIED.
+
+THE AUTHOR ACCEPTS NO RESPONSIBILITY FOR ANY LOSS OF DATA INCURRED BY INSTALLING 
+OR USING THIS PROGRAM.
+
+You are permitted to make as many copies of this software as you wish, including
+uploading it to a public FTP or web server, provided that exact copies of the 
+original software are given in an unmodified form.
+
+You are prohibited from charging or requesting donations for any such copies. If
+delivered on CD-ROM or floppy disc, a reasonable fee may be asked for the 
+physical media, plus any delivery costs.
+
+This software is protected by international laws.

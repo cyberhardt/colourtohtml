@@ -1,0 +1,11 @@
+Changelog
+---------
+
+6.2      Replaced icons with something more suitable
+         Added RGB and CMYK support
+         Solved problems of grey edges on HSL control
+         Preview font colour switches between black and white depending on panel colour
+6.1      Fixed colour entry bug
+         Added support for 3-digit rgb values (eg #f00)
+6.0      Ported from Delphi to Lazarus with a near-complete rewrite
+         Added ability to capture any colour from the screen at any time via the tray icon
